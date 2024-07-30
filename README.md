@@ -23,6 +23,8 @@ At the heart of Blank Slate lies a rich tapestry of intricate game systems desig
 
 In addition to our unique gameplay systems, Blank Slate boasts a visually striking aesthetic based on our custom shader. Inspired by a hand-drawn and painted aesthetic, our team has meticulously crafted every detail of the world, from the lush landscapes of the hills to the ethereal beauty of the floating island. Our custom shader not only enhances the game's visual fidelity but also makes the player feel as if they are diving into a storybook in each scene.
 
+![Blank Slate Custom Shader](https://github.com/CSG-4013/23-24-Production-Wiki-Public/blob/main/imgs/BlankSlate-Shader.png)
+
 Complementing our immersive gameplay and imaginative visuals is an original soundtrack composed specifically for Blank Slate. Collaborating with talented musicians and sound designers, we aim to create a musical experience that elevates every moment of the player's journey. Our soundtrack will transport players deeper into the world of Blank Slate, stirring their emotions and fueling their sense of adventure.
 
 ---
