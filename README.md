@@ -1,6 +1,6 @@
-# Tandy School of Computer Science, University of Tulsa
-## RH 2055 Studios
-### Computer Simulation & Gaming (CSG) - Senior Project 2023-2024
+# University of Tulsa, Tandy School of Computer Science
+## Computer Simulation & Gaming (CSG) 
+### RH Studios - - Senior Project 2023-2024
 ![blank_slate_logoBK](https://raw.githubusercontent.com/wiki/CSG-4013/23-24-Production-Wiki-Public/images/BlankSlate-Logo.png)
 
 ---
@@ -20,20 +20,24 @@ Our team has crafted an exciting gaming experience that transports players into 
 At the heart of Blank Slate lies a rich tapestry of intricate game systems designed to immerse players in a dynamic and living world. From the moment they awaken in the mysterious valley with no knowledge of their past, players will be drawn into a narrative-driven experience that encourages exploration, discovery, and personal growth. The central mechanic of absorbing traits and abilities from other species adds depth and complexity to gameplay, offering players a diverse array of strategic choices as they navigate the challenges ahead.
 
 ![Blank Slate Models and Textures](https://github.com/CSG-4013/23-24-Production-Wiki-Public/blob/main/imgs/BlankSlate-Models-Textures.PNG)
+^ *Blank Slate sample models and textures*
 
 In addition to our unique gameplay systems, Blank Slate boasts a visually striking aesthetic based on our custom shader. Inspired by a hand-drawn and painted aesthetic, our team has meticulously crafted every detail of the world, from the lush landscapes of the hills to the ethereal beauty of the floating island. Our custom shader not only enhances the game's visual fidelity but also makes the player feel as if they are diving into a storybook in each scene.
 
 ![Blank Slate Custom Shader](https://github.com/CSG-4013/23-24-Production-Wiki-Public/blob/main/imgs/BlankSlate-Shader.png)
+^ *Blank Slate custom shader*
 
 Complementing our immersive gameplay and imaginative visuals is an original soundtrack composed specifically for Blank Slate. Collaborating with talented musicians and sound designers, we aim to create a musical experience that elevates every moment of the player's journey. Our soundtrack will transport players deeper into the world of Blank Slate, stirring their emotions and fueling their sense of adventure.
 
 ---
 ![Blank Slate Dialogue Icons](https://github.com/CSG-4013/23-24-Production-Wiki-Public/blob/main/imgs/BlankSlate-DialogueIcons.PNG)
+^ *Blank Slate Dialogue icons*
 
 ## Player Experience
 In this enchanting adventure, players step into the role of a character awakening in an enigmatic valley, their past veiled in mystery, their future a blank slate. Encountering watchful creatures, players navigate a whimsical world brimming with secrets and magic. As they explore, they uncover their latent ability to absorb the traits and powers of the diverse inhabitants, a skill that proves essential in their quest. Guided by a village elder's recognition of their magical essence, players embark on a journey fraught with peril and wonder, culminating in a daring mission to the mystical floating island. There, amidst the crumbling tower castle consumed by crystalline growth, players confront the ominous decay threatening their world's very existence. With quests to complete and challenges to overcome, players harness their newfound abilities to retrieve the focus stone, the first step to halting the destructive forces endangering their beloved realm.
 
 ![Blank Slate Inventory System](https://github.com/CSG-4013/23-24-Production-Wiki-Public/blob/main/imgs/BlankSlate-Inventory.png)
+^ *Blank Slate Inventory System*
 
 ---
 
