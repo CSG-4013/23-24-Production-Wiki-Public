@@ -92,7 +92,8 @@ This game is produced by the **2023-2024 graduating class in [Computer Simulatio
 ---
 
 ## Anticipated Release
-The game is anticipated to launch as a free game on STEAM later this year, 2024, upon approval through the STEAM developer process.
+*Blank Slate* is anticipated to launch as a free game on STEAM later this year, 2024, upon approval through the STEAM developer process.
+*Blank Slate* can also be found on **itch.io** at [https://csgutulsa.itch.io/blank-slate](https://csgutulsa.itch.io/blank-slate)
 
 ---
 
