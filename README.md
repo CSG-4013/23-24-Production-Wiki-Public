@@ -102,4 +102,4 @@ The game is anticipated to launch as a free game on STEAM later this year, 2024,
 ---
 
 Thank you for your interest in **Blank Slate: Journey of Unknown & Unbound**. We hope you enjoy playing it as much as we enjoyed creating it!
-For more inforamtion about this project or about the CSG program at the Univeristy of Tulsa, please contact [akram-burris@utulsa.edu](mailto:akram-burris@utulsa.edu)
+For more information about this project or about the CSG program at the University of Tulsa, please contact [akram-burris@utulsa.edu](mailto:akram-burris@utulsa.edu)
